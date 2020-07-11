@@ -3,7 +3,7 @@ UI Clone - Discord
 </h1>
 
 <p align="center">Discord UI Clone (partial) for study purposes.</p>
-<p align="center">Deployed <a href="https://discord-ui-sopheak.netlify.app/">here</a>.</p>
+<p align="center">Deployed <a href="https://discord-sopheak-ui.netlify.app/">here</a>.</p>
 
 <hr>
 
