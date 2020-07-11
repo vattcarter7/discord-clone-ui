@@ -8,7 +8,7 @@ import {
   Icons,
   MicIcon,
   HeadphoneIcon,
-  SettingsIcon,
+  SettingsIcon
 } from './styles';
 
 const UserInfo: React.FC = () => {
@@ -17,7 +17,7 @@ const UserInfo: React.FC = () => {
       <Profile>
         <Avatar />
         <UserData>
-          <strong>Guilherme Rodz</strong>
+          <strong>Vatt Carter</strong>
           <span>#2689</span>
         </UserData>
       </Profile>

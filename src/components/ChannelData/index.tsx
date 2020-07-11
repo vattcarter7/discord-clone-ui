@@ -21,19 +21,18 @@ const ChannelData: React.FC = () => {
         {Array.from(Array(15).keys()).map((n) => (
           <ChannelMessage
             key={n}
-            author="Guilherme Rodz"
-            date="21/06/2020"
-            content="Hoje é o meu aniversário!"
+            author='Vatt Carter'
+            date='21/06/2020'
+            content='Hoje é o meu aniversário!'
           />
         ))}
 
         <ChannelMessage
-          author="Diego Fernandes"
-          date="21/06/2020"
+          author='Diego Fernandes'
+          date='21/06/2020'
           content={
             <>
-              <Mention>@Guilherme Rodz</Mention>, me carrega no LoL e CS de novo
-              por favor?
+              <Mention>@Vatt carter</Mention>, mi amigo por favor?
             </>
           }
           hasMention
@@ -42,7 +41,7 @@ const ChannelData: React.FC = () => {
       </Messages>
 
       <InputWrapper>
-        <Input type="text" placeholder="Conversarem #chat-livre" />
+        <Input type='text' placeholder='Conversarem #chat-livre' />
         <InputIcon />
       </InputWrapper>
     </Container>
